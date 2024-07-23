@@ -1,7 +1,7 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas 🎥
 
 <p align="center">
-    <img width="100" src=".github/assets/logo.jpeg">
+    <img width="400" src="/assets/logo.jpeg">
 </p>
 
 ### ✏️ Título do Projeto
@@ -34,6 +34,3 @@ Foram bem satisfatórios para uma licença gratuita. Tive sorte pois ganhei 1 di
 ### 💭 Reflexão (Opcional)
 O maior desafio foram os recursos gratuitos que temos ainda disponíveis para utilização. O crescimento das ferramentas de IA é tanto que temos milhares de sites que oferecem as mesmas coisas, mas de formas diferentes. No meu caso sei que provavelmente possuem vários sites melhores que o Vidnoz AI na licença gratuita, mas a procura por esses sites é bem frustante e demanda certo tempo, pois mesmo em sites que indicam as ferramentas, com o aumento da procura dessas ferramentas esses sites sempre estão desatualizados, pois elas estão em constante atualização. 
 Fora esse ponto, foi uma experiência legal. Ainda é fascinante ver essa evolução. Alguns trechos da voz soam tão naturais que você pode se perguntar se realmente é uma IA ali falando, e essas ferramentas não param de avançar em qualidade e quantidade, o que é bom, pois teremos mais ferramentas de uso gratuito com qualidade em pouco tempo.
-
-```
-
