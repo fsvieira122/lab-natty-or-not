@@ -30,6 +30,7 @@ Foram bem satisfatórios para uma licença gratuita. Tive sorte pois ganhei 1 di
 - De fato parece um programa de TV. Não entendo muito de edição de vídeo, mas achei que o formato ficou ok
 
 **[LINK PARA O VÍDEO NO YOUTUBE AQUI](https://youtu.be/5aNz5UMwuBQ)**
+
 [LINK PARA O VÍDEO NO GITHUB AQUI](assets/conversa-com-ia.mp4)(OBS.: Utilizei uma ferramenta de compressão de vídeo para conseguir subir o mesmo no GITHUB. O projeto original sem perda de qualidade está no youtube)
 
 ### 💭 Reflexão (Opcional)
