@@ -1,7 +1,7 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
 
-### Título do Projeto
+### ✏️ Título do Projeto
 Tech Horizon - A tecnologia pelo mundo
 
 ### 📒 Descrição
