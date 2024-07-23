@@ -29,7 +29,8 @@ Foram bem satisfatórios para uma licença gratuita. Tive sorte pois ganhei 1 di
 - Áudio da voz excelente, com timbre certo e fala natural. Alguns trechos mostram ser IA, outros não. Mas no geral, foi o que mais agradou
 - De fato parece um programa de TV. Não entendo muito de edição de vídeo, mas achei que o formato ficou ok
 
-**[LINK PARA O VÍDEO AQUI](https://youtu.be/5aNz5UMwuBQ)**
+**[LINK PARA O VÍDEO NO YOUTUBE AQUI](https://youtu.be/5aNz5UMwuBQ)**
+[LINK PARA O VÍDEO NO GITHUB AQUI](assets/conversa-com-ia.mp4)(OBS.: Utilizei uma ferramenta de compressão de vídeo para conseguir subir o mesmo no GITHUB. O projeto original sem perda de qualidade está no youtube)
 
 ### 💭 Reflexão (Opcional)
 O maior desafio foram os recursos gratuitos que temos ainda disponíveis para utilização. O crescimento das ferramentas de IA é tanto que temos milhares de sites que oferecem as mesmas coisas, mas de formas diferentes. No meu caso sei que provavelmente possuem vários sites melhores que o Vidnoz AI na licença gratuita, mas a procura por esses sites é bem frustante e demanda certo tempo, pois mesmo em sites que indicam as ferramentas, com o aumento da procura dessas ferramentas esses sites sempre estão desatualizados, pois elas estão em constante atualização. 
