@@ -1,5 +1,8 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas 🎥
 
+<p align="center">
+    <img width="100" src=".github/assets/logo.jpeg">
+</p>
 
 ### ✏️ Título do Projeto
 Tech Horizon - A tecnologia pelo mundo
@@ -8,9 +11,9 @@ Tech Horizon - A tecnologia pelo mundo
 Se trata de um programa de TV sobre tecnologia, e no quadro "Tecnologia pelo mundo", são entrevistados diversas pessoas de toda a parte do planeta, pessoas estas que são vistas como "inimigos da tecnologia", por conta de seus hábitos e costumes. O programa explora o impacto da tecnologia no dia a dia dessas pessoas. E nesse episódio é entrevistado um monge do Tibet.
 
 ### 🤖 Tecnologias Utilizadas
-ChatGPT(https://chatgpt.com) - Roteiro
-Vidnoz AI(https://pt.vidnoz.com) - Geração de vídeo e áudio
-CapCut(capcut.com) - Edição de vídeo
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
+- IA Generativa **[Vidnoz AI](https://pt.vidnoz.com)** Geração de vídeo e áudio;
+- Software **[CapCut](capcut.com)** Edição de vídeo;
 
 ### 🧐 Processo de Criação
 1 - Tive a ideia inicial inspirado na visita ao Mosteiro Zen Morro da Vargem (Ibiraçu - ES)
@@ -25,6 +28,8 @@ Foram bem satisfatórios para uma licença gratuita. Tive sorte pois ganhei 1 di
 - Vídeo com qualidade alta, porém é nítido que ambos entrevistador e entrevistado são robôs. Nessa parte a IA da Vidnoz deixou a deesejar (pode ser por conta da licença gratuita)
 - Áudio da voz excelente, com timbre certo e fala natural. Alguns trechos mostram ser IA, outros não. Mas no geral, foi o que mais agradou
 - De fato parece um programa de TV. Não entendo muito de edição de vídeo, mas achei que o formato ficou ok.
+
+**[LINK PARA O VÍDEO AQUI](https://youtu.be/5aNz5UMwuBQ)**
 
 ### 💭 Reflexão (Opcional)
 O maior desafio foram os recursos gratuitos que temos ainda disponíveis para utilização. O crescimento das ferramentas de IA é tanto que temos milhares de sites que oferecem as mesmas coisas, mas de formas diferentes. No meu caso sei que provavelmente possuem vários sites melhores que o Vidnoz AI na licença gratuita, mas a procura por esses sites é bem frustante e demanda certo tempo, pois mesmo em sites que indicam as ferramentas, com o aumento da procura dessas ferramentas esses sites sempre estão desatualizados, pois elas estão em constante atualização. 
