@@ -1,51 +1,34 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
 
-> Woooow! Look at this 👀
+### Título do Projeto
+Tech Horizon - A tecnologia pelo mundo
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+### 📒 Descrição
+Se trata de um programa de TV sobre tecnologia, e no quadro "Tecnologia pelo mundo", são entrevistados diversas pessoas de toda a parte do planeta, pessoas estas que são vistas como "inimigos da tecnologia", por conta de seus hábitos e costumes. O programa explora o impacto da tecnologia no dia a dia dessas pessoas. E nesse episódio é entrevistado um monge do Tibet.
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+### 🤖 Tecnologias Utilizadas
+ChatGPT(https://chatgpt.com) - Roteiro
+Vidnoz AI(https://pt.vidnoz.com) - Geração de vídeo e áudio
+CapCut(capcut.com) - Edição de vídeo
 
-### Objetivos
+### 🧐 Processo de Criação
+1 - Tive a ideia inicial inspirado na visita ao Mosteiro Zen Morro da Vargem (Ibiraçu - ES)
+2 - Comecei procurando uma IA geradora de vídeo gratuita, e achei na licença gratuita da Vidnoz AI recursos o suficiente para a criação do vídeo
+3 - Comecei criando um roteiro mais ou menos do que eu queria, que era como a tecnologia vinha afetando os monges no Tibet
+4 - Após idealizar que seria um programa de TV e toda a ideia de descrição, utilizei o Chat GPT para a criação do roteiro com os prompts que estão disponíveis aqui
+5 - Com o roteiro, dei pequenos ajustes para se encaixar no tempo limite que a licença gratuita da Vidnoz AI permitia, que era 1 minuto
+6 - Criei duas contas para conseguir complementar o vídeo, pois 1 minuto na minha ideia não era o ideal. Gerei os dois vídeos e os editei no Capcut
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+### 🚀 Resultados
+Foram bem satisfatórios para uma licença gratuita. Tive sorte pois ganhei 1 dia de Pro para testes, mas ainda possuia a limitação de 1 minuto, mas mesmo com essa limitação consegui mais recursos que deixaram o vídeo mais natural, com menos cara de IA, apesar de obviamente ainda parecer com IA.
+- Vídeo com qualidade alta, porém é nítido que ambos entrevistador e entrevistado são robôs. Nessa parte a IA da Vidnoz deixou a deesejar (pode ser por conta da licença gratuita)
+- Áudio da voz excelente, com timbre certo e fala natural. Alguns trechos mostram ser IA, outros não. Mas no geral, foi o que mais agradou
+- De fato parece um programa de TV. Não entendo muito de edição de vídeo, mas achei que o formato ficou ok.
 
-### Template
+### 💭 Reflexão (Opcional)
+O maior desafio foram os recursos gratuitos que temos ainda disponíveis para utilização. O crescimento das ferramentas de IA é tanto que temos milhares de sites que oferecem as mesmas coisas, mas de formas diferentes. No meu caso sei que provavelmente possuem vários sites melhores que o Vidnoz AI na licença gratuita, mas a procura por esses sites é bem frustante e demanda certo tempo, pois mesmo em sites que indicam as ferramentas, com o aumento da procura dessas ferramentas esses sites sempre estão desatualizados, pois elas estão em constante atualização. 
+Fora esse ponto, foi uma experiência legal. Ainda é fascinante ver essa evolução. Alguns trechos da voz soam tão naturais que você pode se perguntar se realmente é uma IA ali falando, e essas ferramentas não param de avançar em qualidade e quantidade, o que é bom, pois teremos mais ferramentas de uso gratuito com qualidade em pouco tempo.
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
-
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
 ```
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
